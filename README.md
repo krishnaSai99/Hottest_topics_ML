@@ -6,4 +6,4 @@ to obtain a dataset on various machine learning techniques.The CSV file contains
 from 1987 until 2017 (30 years!). These papers discuss a wide variety of topics in machine learning, from neural networks to optimization methods 
 and many more.
 
-The Datasset link - https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv
+The Dataset link - https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv
